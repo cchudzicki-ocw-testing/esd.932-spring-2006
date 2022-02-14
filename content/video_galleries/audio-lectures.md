@@ -1,7 +1,10 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Lecture Audio
 title: Audio Lectures
+type: CourseSection
 uid: 302b3d5f-22df-459f-d68b-51faeb7bd7fe
 videos:
   content:

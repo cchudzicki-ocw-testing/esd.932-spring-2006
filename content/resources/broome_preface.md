@@ -4,7 +4,12 @@ description: This resource contains a draft preface to professor Broome's forthc
   book on engineering ethics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/1454a0a086eff2da579eeadb69b263ba_broome_preface.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: broome_preface.pdf
+type: OCWFile
 uid: 1454a0a0-86ef-f2da-579e-eadb69b263ba
 ---

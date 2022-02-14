@@ -9,7 +9,9 @@ image_metadata:
     studies considered in this course. (Photograph courtesy of [U.S. EPA](http://www.epa.gov/).)
   credit: ''
   image-alt: Photo of abandoned house.
+learning_resource_types: []
 resourcetype: Image
 title: esd-932s06-th.jpg
+type: OCWImage
 uid: 96eecf8b-46f3-8374-c7bc-a3084500a43b
 ---
