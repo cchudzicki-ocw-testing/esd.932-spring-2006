@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: broome_preface.pdf
-type: OCWFile
 uid: 1454a0a0-86ef-f2da-579e-eadb69b263ba
 ---
