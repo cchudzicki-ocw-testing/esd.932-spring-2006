@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of abandoned house.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: esd-932s06-th.jpg
 uid: 96eecf8b-46f3-8374-c7bc-a3084500a43b
