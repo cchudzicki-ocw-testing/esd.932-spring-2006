@@ -44,4 +44,4 @@ Pinkus, R. L. B., et al. _Engineering Ethics: Balancing Cost, Schedule, and Risk
 
 Professor Broome is completing a book related to this course. A draft of the preface is presented here as a supplementary reading.
 
-The Nature of Engineering - Author's Preface ({{< resource_link 1454a0a0-86ef-f2da-579e-eadb69b263ba "PDF" >}})
+The Nature of Engineering - Author's Preface ({{% resource_link 1454a0a0-86ef-f2da-579e-eadb69b263ba "PDF" %}})
