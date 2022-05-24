@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec03_360p_16_9.mp4
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/gdrive_uploads/esd-932-engineering-ethics-spring-2006/1voOtbYtDI7oqgmMmcy-SST_gWh9WWFdg/mitesd_932s06_lec05.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -12,15 +12,15 @@ image_metadata:
 learning_resource_types: []
 license: ''
 resourcetype: Video
-title: MITESD_932S06_lec03.mp4
-uid: e62366d8-650d-47d3-b42f-c1ef26ce1e29
+title: MITESD_932S06_lec05.mp4
+uid: c4284c2d-c8ce-4953-ae23-933d7c6da34c
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/Qyqcvh7wDH0/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: Qyqcvh7wDH0
+  youtube_id: ''
 ---
