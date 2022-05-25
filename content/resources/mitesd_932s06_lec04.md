@@ -21,7 +21,7 @@ video_files:
   video_transcript_file: ''
 video_metadata:
   video_speakers: Dr. Taft Broome
-  video_tags: Philosophy of Engineering
+  video_tags: Philosophy of Engineering, ethics
   youtube_description: "MIT ESD.932 Engineering Ethics, Spring 2006\nInstructor: Dr.\
     \ Taft Broome\nView the complete course: https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61YF5HCMnGUwJ8D-PNNs3OR\n\
