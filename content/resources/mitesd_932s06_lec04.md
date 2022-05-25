@@ -20,10 +20,10 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/2AuvCEep4Jc/default.jpg
   video_transcript_file: ''
 video_metadata:
-  video_speakers: Dr. Taft Broome
-  video_tags: Philosophy of Engineering, ethics
-  youtube_description: "MIT ESD.932 Engineering Ethics, Spring 2006\nInstructor: Dr.\
-    \ Taft Broome\nView the complete course: https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/\n\
+  video_speakers: Prof. Joel Moses
+  video_tags: Philosophy of Engineering, engineering ethics
+  youtube_description: "MIT ESD.932 Engineering Ethics, Spring 2006\nInstructor: Prof.\
+    \ Joel Moses\nView the complete course: https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61YF5HCMnGUwJ8D-PNNs3OR\n\
     \nThis course introduces the theory and the practice of engineering ethics using\
     \ a multi-disciplinary and cross-cultural approach. Theory includes ethics and\
