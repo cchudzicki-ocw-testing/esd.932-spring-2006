@@ -45,5 +45,3 @@ Lecturer: Dr. Taft Broome
 1: Faculty Introduction
 
 2: Introduction to Ethics I - No audio
-
-{{% resource_link "c5e9e824-ea65-45d1-8da0-b97125cbe183" "Course_Introduction_MIT_ESD.932_Engineering_Ethics_Spring_2006.vtt" %}}
