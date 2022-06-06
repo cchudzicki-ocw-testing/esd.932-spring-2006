@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec14_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec14_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '14: Individual, Professional, and Institutional Values'
 uid: 0c039d7e-ba11-46a3-9520-5d5be3bdee42
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1pUVdk0cEsBqpG4Wecf-he5nb4thjMD8w_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/MsJ31I9umCM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1pUVdk0cEsBqpG4Wecf-he5nb4thjMD8w_transcript.pdf
 video_metadata:
   video_speakers: ' Prof. Sheila Widnall'
   video_tags: Individual, Professional, Institutional, Values, engineering ethics

@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec24_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec24_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '24: Student Presentation'
 uid: 98884af3-eb6b-4ebd-ada6-b000d414245b
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1xhiBIFC-X3GFvKqml459rS4-_CePS7XK_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/XUFJ8iuxfCI/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1xhiBIFC-X3GFvKqml459rS4-_CePS7XK_transcript.pdf
 video_metadata:
   video_speakers: Students
   video_tags: Student Presentation, engineering ethics

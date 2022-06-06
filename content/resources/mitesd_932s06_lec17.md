@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec17_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec17_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '17: Recap of Semester so Far; Introduction to Codes of Ethics'
 uid: 58f6c064-d0cc-43d4-b7bc-eab60e7fd126
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1j8VU118hs-URRf1GwhclxqCaxpAMtwXh_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/zPGh2bBeIgM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1j8VU118hs-URRf1GwhclxqCaxpAMtwXh_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Introduction, Codes of Ethics, engineering ethics

@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec06_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec06_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -17,9 +17,9 @@ title: '6: Introduction to Engineering Ethics: Codes of Ethics, Whistle Blowing,
   Study Methodology'
 uid: cda44f61-db1d-41f7-8a0a-ccc8059a3210
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1Ne47vgv7d-br7_07pXUisa1gr4SgGA1V_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/rid0pVnuDjM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1Ne47vgv7d-br7_07pXUisa1gr4SgGA1V_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Engineering Ethics, Codes of Ethics, Whistle Blowing, Case Study Methodology

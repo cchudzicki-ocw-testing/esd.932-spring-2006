@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec05_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec05_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '5: Introduction to Philosophy of Engineering II'
 uid: c4284c2d-c8ce-4953-ae23-933d7c6da34c
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1voOtbYtDI7oqgmMmcy-SST_gWh9WWFdg_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/iB6SuG7wh5U/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1voOtbYtDI7oqgmMmcy-SST_gWh9WWFdg_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Philosophy of Engineering, ethics

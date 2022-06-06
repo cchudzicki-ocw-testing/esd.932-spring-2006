@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec18_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec18_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '18: Codes of Ethics (cont.)'
 uid: 34bb9131-7f30-478a-9430-3e195f9189c8
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1p47p5jVYW38UZQKKvHV68mGsSddJ6PLL_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/Het_nd5x4hs/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1p47p5jVYW38UZQKKvHV68mGsSddJ6PLL_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Codes of Ethics, engineering ethics

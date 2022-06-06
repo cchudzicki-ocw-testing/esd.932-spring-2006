@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec08_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec08_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '8: Case Studies: Chernobyl, Three Mile Island'
 uid: ff80ecd8-255f-4eb9-91ff-480f4ac8ebf8
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1LJfd1D-vtTc8V3RgxOa6kg2ojVN-QukM_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/-dAgY_AMqGk/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1LJfd1D-vtTc8V3RgxOa6kg2ojVN-QukM_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Case Studies, Chernobyl, Three Mile Island, engineering ethics

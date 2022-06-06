@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec15_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec15_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '15: Leadership in Engineering and Industry'
 uid: 6aa28b3c-3cfd-4faa-a571-09b493cb9385
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/17Ju4-QA4sgmAwwuavHQv6UMRVuXyLM9p_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/YFR7UjIy1k8/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/17Ju4-QA4sgmAwwuavHQv6UMRVuXyLM9p_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Leadership, Engineering, Industry, engineering ethics

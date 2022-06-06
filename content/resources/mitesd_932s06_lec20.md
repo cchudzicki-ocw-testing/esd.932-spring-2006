@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec20_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec20_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '20: Ethical Terminology'
 uid: cf55f81a-99a0-4638-bf62-f1801063aa18
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1hZF_q3U7rgQ0CUJUB_DsfWLGNLvlgxtd_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/dT3WhWLi2wI/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1hZF_q3U7rgQ0CUJUB_DsfWLGNLvlgxtd_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Ethical Terminology, engineering ethics

@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec22_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec22_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '22: Public Seminar on Narrative Ethics'
 uid: fd9c991a-7094-4b83-85f9-f7716e4cc944
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1qUeGUNW5ikLUNDMMpVXpsnM3FKjYzoTD_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/jsyn9UM7obo/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1qUeGUNW5ikLUNDMMpVXpsnM3FKjYzoTD_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome, Prof. Segun Gbadegesin
   video_tags: Public Seminar, Narrative Ethics, engineering ethics

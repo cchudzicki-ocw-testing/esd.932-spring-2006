@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec12_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec12_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '12: First Principles of Engineering Ethics'
 uid: 8a920563-bf1b-4aff-8284-34a53ef21b0a
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1jtTHHrFYlJV8HNcuqwk0WL38Py6VwHzV_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/nYNTRl_Hx1c/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1jtTHHrFYlJV8HNcuqwk0WL38Py6VwHzV_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: First Principles, Engineering Ethics

@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec03_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec03_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '3: Introduction to Ethics II; Initial Discussion of B. F. Goodrich Case'
 uid: e62366d8-650d-47d3-b42f-c1ef26ce1e29
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1XGDS-lrc0AnJyfy1zowoaLPdAOeFEe0m_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/Qyqcvh7wDH0/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1XGDS-lrc0AnJyfy1zowoaLPdAOeFEe0m_transcript.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Ethics, B. F. Goodrich

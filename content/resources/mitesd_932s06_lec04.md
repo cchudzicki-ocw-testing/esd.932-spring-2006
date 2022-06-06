@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec04_360p_16_9.mp4
+file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec04_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,9 +16,9 @@ resourcetype: Video
 title: '4: Introduction to Philosophy of Engineering I'
 uid: 5efa4d23-f02d-4c92-94ef-92496299e175
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/1JwjVPvK8-N24O-lC1ZdwtJKXmd5I_wDn_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/2AuvCEep4Jc/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/1JwjVPvK8-N24O-lC1ZdwtJKXmd5I_wDn_transcript.pdf
 video_metadata:
   video_speakers: Prof. Joel Moses
   video_tags: Philosophy of Engineering, engineering ethics
