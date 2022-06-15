@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: The audio lectures section contains audio files of .mp3 format.
 draft: false
 is_media_gallery: true
 learning_resource_types:
