@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section contains summary of 2 homeworks and 1 project
+  research completed during the term of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

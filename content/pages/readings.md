@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section contains readings for parts 1 and 2 of the course
+  and 1 supplement reading.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

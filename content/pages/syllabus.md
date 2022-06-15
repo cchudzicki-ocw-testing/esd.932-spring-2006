@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains information about course description, course
+  level, course calendar, grading criteria, and instructor biography.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
