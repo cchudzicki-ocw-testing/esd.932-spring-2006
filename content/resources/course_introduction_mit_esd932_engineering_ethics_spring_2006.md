@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: Course_Introduction_MIT_ESD.932_Engineering_Ethics_Spring_2006.vtt
 uid: c5e9e824-ea65-45d1-8da0-b97125cbe183

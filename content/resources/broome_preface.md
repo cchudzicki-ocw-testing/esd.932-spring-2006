@@ -6,6 +6,7 @@ file: /courses/esd-932-engineering-ethics-spring-2006/1454a0a086eff2da579eeadb69
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
